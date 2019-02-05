@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+	<xs:complexType name="canciones" >
+		<xs:sequence>
+			<xs:element name="numero" type="xs:integer" />
+			<xs:element name="nombre" type="xs:string" />
+			<xs:element name="duracion" type="xs:string" />
+		</xs:sequence>
+	</xs:complexType>
+	
+	<xs:element name="discografia" >
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="artista" >
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="album" maxOccurs="unbounded" >
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="canciones" type="canciones" maxOccurs="unbounded" />
+									</xs:sequence>
+									<xs:attribute name="nombre" use="required" >
+										<xs:simpleType>
+											<xs:restriction base="xs:string" />
+										</xs:simpleType>
+									</xs:attribute>
+									<xs:attribute name="discografica" use="optional" >
+										<xs:simpleType>
+											<xs:restriction base="xs:string" />
+										</xs:simpleType>
+									</xs:attribute>
+									<xs:attribute name="publicacion" use="required" >
+										<xs:simpleType>
+											<xs:restriction base="xs:gYear" />
+										</xs:simpleType>
+									</xs:attribute>
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+						<xs:attribute name="nombre" use="required">
+							<xs:simpleType>
+								<xs:restriction base="xs:string" />
+							</xs:simpleType>
+						</xs:attribute>	
+					</xs:complexType>	
+				</xs:element>		
+			</xs:sequence>	
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

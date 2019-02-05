@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT discografia (artista)+>
+<!ELEMENT artista (album)*>
+<!ATTLIST artista nombre CDATA #REQUIRED>
+
+<!ELEMENT album (canciones*)>
+<!ATTLIST album nombre CDATA #REQUIRED>
+<!ATTLIST album publicacion CDATA #REQUIRED>
+<!ATTLIST album discografica CDATA #IMPLIED>
+
+<!ELEMENT canciones (numero, nombre, duracion)>
+<!ELEMENT numero (#PCDATA)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT duracion (#PCDATA)>

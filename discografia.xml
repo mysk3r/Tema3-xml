@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE discografia SYSTEM "discografia.dtd">
+<discografia>
+	<artista nombre="El Hombre Burbuja">
+		<album nombre="El hombre burbuja" publicacion="1999" discografica="Everlasting / RFTOS">
+			<canciones>
+				<numero>1</numero>
+				<nombre>Buzos (en la luna)</nombre>
+				<duracion>2:41</duracion>
+			</canciones>
+			<canciones>
+				<numero>2</numero>
+					<nombre>Banb, me apuntaste y bang</nombre>
+					<duracion>3:26</duracion>
+			</canciones>
+			<canciones>	
+				<numero>3</numero>
+				<nombre>Dónde estás II</nombre>
+				<duracion>2:10</duracion>
+			</canciones>
+			<canciones>
+				<numero>4</numero>
+				<nombre>La pecera</nombre>
+				<duracion>3:02</duracion>
+			</canciones>
+			<canciones>
+				<numero>5</numero>
+				<nombre>Rey mugre</nombre>
+				<duracion>3:20</duracion>
+			</canciones>
+			<canciones>
+				<numero>6</numero>
+				<nombre>El té de los locos</nombre>
+				<duracion>4:19</duracion>
+			</canciones>
+			<canciones>
+				<numero>7</numero>
+				<nombre>Polen</nombre>
+				<duracion>3:09</duracion>
+			</canciones>
+			<canciones>
+				<numero>8</numero>
+				<nombre>Bashful</nombre>
+				<duracion>1:55</duracion>
+			</canciones>
+			<canciones>
+				<numero>9</numero>
+				<nombre>Cambios</nombre>
+				<duracion>2:26</duracion>
+			</canciones>
+			<canciones>
+				<numero>10</numero>
+				<nombre>Braile</nombre>
+				<duracion>2:46</duracion>
+			</canciones>
+			<canciones>
+				<numero>11</numero>
+				<nombre>En las nubes</nombre>
+				<duracion>2:38</duracion>
+			</canciones>
+			<canciones>
+				<numero>12</numero>
+				<nombre>Soma</nombre>
+				<duracion>5:19</duracion>
+			</canciones>
+		</album>
+		<album nombre="Nadando a crol" publicacion="2000" discografica="Everlasting / RFTOS">
+			<canciones>
+				<numero>1</numero>
+					<nombre>Cómprate un arma</nombre>
+					<duracion>2:52</duracion>
+			</canciones>
+			<canciones>
+				<numero>2</numero>
+					<nombre>Crol</nombre>
+					<duracion>3:53</duracion>
+			</canciones>
+			<canciones>
+				<numero>3</numero>
+					<nombre>¿Por qué no?</nombre>
+					<duracion>3:33</duracion>
+			</canciones>
+			<canciones>
+				<numero>4</numero>
+					<nombre>Mi rulot and I</nombre>
+					<duracion>2:47</duracion>
+			</canciones>
+			<canciones>
+				<numero>5</numero>
+					<nombre>Trece</nombre>
+					<duracion>2:49</duracion>
+			</canciones>
+			<canciones>
+				<numero>6</numero>
+					<nombre>Trampas</nombre>
+					<duracion>2:10</duracion>
+			</canciones>
+			<canciones>
+				<numero>7</numero>
+					<nombre>Al zar lo que es del zar</nombre>
+					<duracion>1:50</duracion>
+			</canciones>
+			<canciones>
+				<numero>8</numero>
+					<nombre>Kill the mosquito</nombre>
+					<duracion>5:36</duracion>
+			</canciones>
+			<canciones>
+				<numero>9</numero>
+					<nombre>Suda la soga</nombre>
+					<duracion>3:31</duracion>
+			</canciones>
+			<canciones>
+				<numero>10</numero>
+					<nombre>Caprichosa</nombre>
+					<duracion>3:13</duracion>
+			</canciones>
+			<canciones>
+				<numero>11</numero>
+					<nombre>Sobras</nombre>
+					<duracion>4:21</duracion>
+			</canciones>
+			<canciones>
+				<numero>12</numero>
+					<nombre>Son tus fobias</nombre>
+					<duracion>2:59</duracion>
+			</canciones>
+			<canciones>
+				<numero>13</numero>
+					<nombre>Baby Sol</nombre>
+					<duracion>9:06</duracion>
+			</canciones>
+		</album>
+		<album nombre="La Paz Está en las Matemáticas" publicacion="2002" discografica="Everlasting / RFTOS">
+			<canciones>
+				<numero>1</numero>
+					<nombre>Sólo una parte</nombre>
+					<duracion>5:42</duracion>
+			</canciones>
+			<canciones>
+				<numero>2</numero>
+					<nombre>T.O.C.</nombre>
+					<duracion>3:58</duracion>
+			</canciones>
+			<canciones>
+				<numero>3</numero>
+					<nombre>El mundo de los números</nombre>
+					<duracion>3:34</duracion>
+			</canciones>
+			<canciones>
+				<numero>4</numero>
+					<nombre>Miedos y mitos</nombre>
+					<duracion>2:34</duracion>
+			</canciones>
+			<canciones>
+				<numero>5</numero>
+					<nombre>Pingüinos y koalas</nombre>
+					<duracion>5:9</duracion>
+			</canciones>
+			<canciones>
+				<numero>6</numero>
+					<nombre>Todo va</nombre>
+					<duracion>3:6</duracion>
+			</canciones>
+			<canciones>
+				<numero>7</numero>
+					<nombre>Mejor fuera</nombre>
+					<duracion>4:30</duracion>
+			</canciones>
+			<canciones>
+				<numero>8</numero>
+					<nombre>Actividad</nombre>
+					<duracion>3:19</duracion>
+			</canciones>
+			<canciones>
+				<numero>9</numero>
+					<nombre>10'</nombre>
+					<duracion>0:21</duracion>
+			</canciones>
+			<canciones>
+				<numero>10</numero>
+					<nombre>Siempre hay algo más</nombre>
+					<duracion>8:44</duracion>
+			</canciones>
+			<canciones>
+				<numero>11</numero>
+					<nombre>Rapport</nombre>
+					<duracion>4:32</duracion>
+			</canciones>
+			<canciones>
+				<numero>12</numero>
+					<nombre>Así que ves fantasmas</nombre>
+					<duracion>4:46</duracion>
+			</canciones>
+			<canciones>
+				<numero>13</numero>
+					<nombre>Aloha dai</nombre>
+					<duracion>6:07</duracion>
+			</canciones>
+			<canciones>
+				<numero>14</numero>
+					<nombre>El mundo en mapas</nombre>
+					<duracion>4:57</duracion>
+			</canciones>
+		</album>
+	</artista>
+</discografia>		
+		
