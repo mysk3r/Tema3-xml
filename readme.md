@@ -1,4 +1,4 @@
-#### Treball nº 3 XML
+#### Treball nº 3 - XML
 Hola Jaume,
 
 No sé si ho hauré fet bé...
